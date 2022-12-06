@@ -78,7 +78,7 @@ namespace Guess_the_number
             dataGridView1.ColumnHeadersVisible = false;
             dataGridView1.ScrollBars = ScrollBars.None;
             dataGridView1.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
-            dataGridView1.DefaultCellStyle.Font = new Font("Microsoft Sans Serif", 14);
+            dataGridView1.DefaultCellStyle.Font = new Font("Microsoft Sans Serif", 48);
             dataGridView1.AllowUserToResizeColumns = false;
             dataGridView1.AllowUserToResizeRows = false;
 
